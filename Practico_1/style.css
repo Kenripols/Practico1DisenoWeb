@@ -1,0 +1,32 @@
+
+      
+      
+    
+
+.intro {
+    text-align: center;
+}
+.b1, .b3 {
+    
+    background-color: lightgray;
+}
+.b2 {
+    
+    
+}
+.pie {
+    background-color: crimson;
+}
+.imagen{
+    width: 20%;
+    border-radius: 50%;
+
+}
+
+.navbar {
+    padding: 0;
+}
+.carro {
+    width:450px;
+     height: auto;
+}
