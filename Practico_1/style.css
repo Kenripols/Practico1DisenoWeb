@@ -15,7 +15,8 @@
     
 }
 .pie {
-    background-color: crimson;
+    background-color: lightgray;
+    text-align: center;
 }
 .imagen{
     width: 20%;
@@ -29,4 +30,12 @@
 .carro {
     width:450px;
      height: auto;
+}
+.infoimagen{
+    width: 440;
+    height: 300px;
+}
+.infoimagensm{
+    width: 300px;
+    height: 200px;
 }
